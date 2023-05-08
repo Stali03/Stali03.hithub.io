@@ -6,7 +6,7 @@
 			<hr color="Black" width = "70%" Align = "middle">
 			<body bgcolor="yellow">
 				<h2 align="center" ><u><font face="Bradley Hand ITC">Instructions</font></u></h2>
-
+	<body>
 		<ul  type="disc"> 
 			<li><font face="Bradley Hand ITC"><b>Each guide will have a specefic riddle.</b></font></li>	
 			<li><font face="Bradley Hand ITC"><b>Scan QR codes to proceed to next level.</b></font></li>
@@ -47,7 +47,7 @@
 	
 						<hr color="Black" width = "70%" Align = "middle">
 						
-
+</body>
 	
 		</body>
 </html>
