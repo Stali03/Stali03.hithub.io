@@ -19,8 +19,10 @@
 				<p align="center">
 				<font face="Bradley Hand ITC"><b>Your Bunny <3</b></font>
 				</p>
-					<hr color="Black" width = "70%" Align = "middle">
-						
+					<hr color="Black" width = "%" Align = "middle">
+					
+		<body>
+		
 					<table border = "5" bordercolor = "Black" cellspacing = "5" align = "center">
 						<tr bgcolor = "White">
 							<th width = "500"><font face="Bradley Hand ITC"><b>Riddles</b></font></th>
@@ -45,7 +47,7 @@
 					</tr>
 					</table>
 	
-						<hr color="Black" width = "70%" Align = "middle">
+						<hr color="Black" width = "100%" Align = "middle">
 						
 </body>
 	
