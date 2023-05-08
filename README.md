@@ -23,7 +23,7 @@
 					
 		<body>
 		
-					<table border = "5" bordercolor = "Black" cellspacing = "5" align = "center">
+					<table border = "1" bordercolor = "Black" cellspacing = "5" align = "center">
 						<tr bgcolor = "White">
 							<th width = "500"><font face="Bradley Hand ITC"><b>Riddles</b></font></th>
 					</tr>
